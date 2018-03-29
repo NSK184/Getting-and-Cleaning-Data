@@ -1,2 +1,6 @@
 # Getting-and-Cleaning-Data
-Using Smartphones" data set, perform an analysis on the data set, and output a tidy data set.Here are the steps that must be performed before running the R script:Download the zip file from the URL provided in the assignment instructions, unzip the files, Move ALL of the following files to the SAME DIRECTORY as the R script: features.txtsubject_train.txtsubject_test.txtX_train.txtX_test.txty_train.txty_test.txt Once those steps are complete, you can run the R script run_analysis.R. The output of the R script is a tidy data set. 
+Using Smartphones" data set, perform an analysis on the data set, and output a tidy data set.
+Here are the steps that must be performed before running the R script:
+--Download the zip file from the URL provided in the assignment instructions, unzip the files, Move ALL of the following files to the SAME DIRECTORY as the R script: features.txt, subject_train.txt, subject_test.txt, X_train.txt, X_test.txt, y_train.txt, y_test.txt 
+--Once those steps are complete, you can run the R script run_analysis.R. 
+--The output of the R script is a tidy data set. 
